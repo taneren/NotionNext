@@ -8,8 +8,11 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到TanBo Notion', url: '' },
-    { title: '内容逐步完善中。。。', url: '' }
+    { title: '梦想是行动的开始，行动是梦想的延续/Dreams spark action, and action fuels dreams.', url: 'https://tanbo.cc' },
+    { title: '凡事预则立，不预则废/Plan ahead or be left behind.', url: 'https://tanbo.cc' }
+    { title: '心之所向，素履以往/The harder you work, the luckier you get.', url: 'https://tanbo.cc' }
+    { title: '越努力，越幸运/Plan ahead or be left behind.', url: 'https://tanbo.cc' }
+    { title: '以梦为马，不负韶华/Ride your dreams and make the most of your time.', url: 'https://tanbo.cc' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +21,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_1: 'TanBo Notion',
+  HEO_HERO_TITLE_2: '记录和分享',
+  HEO_HERO_TITLE_3: 'TANBO.CC',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '关于我的Notion',
+  HEO_HERO_TITLE_LINK: 'https://tanbo.cc',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
