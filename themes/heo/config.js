@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-11-30', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'TanBo Notion',
-  HEO_HERO_TITLE_2: '记录和分享',
+  HEO_HERO_TITLE_1: '不忘初心，方得始终',
+  HEO_HERO_TITLE_2: 'Stay true to your original intent to achieve lasting success.',
   HEO_HERO_TITLE_3: 'TANBO.CC',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '关于我的Notion',
