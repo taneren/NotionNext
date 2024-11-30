@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'TanBo Notion',
-  HEO_HERO_TITLE_2: '不忘初心，方得始终',
+  HEO_HERO_TITLE_1: '不忘初心',
+  HEO_HERO_TITLE_2: '方得始终',
   HEO_HERO_TITLE_3: 'TANBO.CC',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '关于我的Notion',
