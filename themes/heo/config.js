@@ -9,10 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '梦想是行动的开始，行动是梦想的延续/Dreams spark action, and action fuels dreams.', url: 'https://tanbo.cc' },
-    { title: '凡事预则立，不预则废/Plan ahead or be left behind.', url: 'https://tanbo.cc' }
     { title: '心之所向，素履以往/The harder you work, the luckier you get.', url: 'https://tanbo.cc' }
-    { title: '越努力，越幸运/Plan ahead or be left behind.', url: 'https://tanbo.cc' }
-    { title: '以梦为马，不负韶华/Ride your dreams and make the most of your time.', url: 'https://tanbo.cc' }
   ],
 
   // 英雄区左右侧组件颠倒位置
